@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Customer_Segment,City,State,Region
+C-0001,Sara Jain,Corporate,Durgapur,West Bengal,East
+C-0002,Sunita Mishra,Small Business,Coimbatore,Tamil Nadu,South
+C-0003,Ishita Malhotra,Corporate,Kochi,Kerala,South
+C-0004,Aditya Dubey,Consumer,Jamshedpur,Jharkhand,East
+C-0005,Sara Malhotra,Small Business,Muzaffarpur,Bihar,East
+C-0006,Raj Kapoor,Corporate,Surat,Gujarat,West
+C-0007,Aanya Mishra,Small Business,Silchar,Assam,East
+C-0008,Pooja Joshi,Consumer,Warangal,Telangana,South
+C-0009,Rajesh Verma,Corporate,Ludhiana,Punjab,North
+C-0010,Nitin Bose,Small Business,Noida,Uttar Pradesh,North
+C-0011,Kavita Reddy,Home Office,Rohini,Delhi,North
+C-0012,Nisha Mehta,Small Business,Howrah,West Bengal,East
+C-0013,Ananya Chatterjee,Corporate,Panipat,Haryana,North
+C-0014,Meena Malhotra,Corporate,Panipat,Haryana,North
+C-0015,Kabir Pillai,Consumer,Nizamabad,Telangana,South
+C-0016,Rekha Iyer,Home Office,Mumbai,Maharashtra,West
+C-0017,Riya Joshi,Consumer,Ludhiana,Punjab,North
+C-0018,Reyansh Mishra,Corporate,Nagpur,Maharashtra,West
+C-0019,Dhruv Jain,Home Office,Raipur,Chhattisgarh,West
+C-0020,Kavita Saxena,Corporate,Vadodara,Gujarat,West
+C-0021,Swati Nair,Small Business,Margao,Goa,West
+C-0022,Arnav Joshi,Consumer,Mysore,Karnataka,South
+C-0023,Sanjay Deshmukh,Consumer,Hyderabad,Telangana,South
+C-0024,Arjun Agarwal,Consumer,Chandigarh,Punjab,North
+C-0025,Amit Gupta,Small Business,Calicut,Kerala,South
+C-0026,Sara Deshmukh,Small Business,Nizamabad,Telangana,South
+C-0027,Aanya Dubey,Consumer,Bhopal,Madhya Pradesh,West
+C-0028,Sai Jain,Small Business,Margao,Goa,West
+C-0029,Deepa Saxena,Small Business,New Delhi,Delhi,North
+C-0030,Ankita Iyer,Corporate,Chandigarh,Punjab,North
+C-0031,Sunita Chatterjee,Home Office,Hyderabad,Andhra Pradesh,South
+C-0032,Deepa Joshi,Consumer,Agra,Uttar Pradesh,North
+C-0033,Vihaan Mehta,Corporate,New Delhi,Delhi,North
+C-0034,Vikram Mukherjee,Consumer,Surat,Gujarat,West
+C-0035,Ananya Das,Small Business,Noida,Uttar Pradesh,North
+C-0036,Priya Bose,Home Office,Ahmedabad,Gujarat,West
+C-0037,Sara Verma,Consumer,Gurgaon,Haryana,North
+C-0038,Sanjay Mukherjee,Consumer,Hubli,Karnataka,South
+C-0039,Diya Gupta,Consumer,Amritsar,Punjab,North
+C-0040,Vijay Joshi,Small Business,Jaipur,Rajasthan,North
+C-0041,Rahul Patil,Home Office,Bhubaneswar,Odisha,East
+C-0042,Aanya Reddy,Home Office,Vadodara,Gujarat,West
+C-0043,Deepa Iyer,Consumer,Dwarka,Delhi,North
+C-0044,Arjun Deshmukh,Corporate,Warangal,Telangana,South
+C-0045,Sneha Kapoor,Home Office,Amritsar,Punjab,North
+C-0046,Sunita Agarwal,Consumer,Dibrugarh,Assam,East
+C-0047,Rahul Tiwari,Home Office,Kolkata,West Bengal,East
+C-0048,Arnav Kapoor,Home Office,Jaipur,Rajasthan,North
+C-0049,Priya Kulkarni,Home Office,Kochi,Kerala,South
+C-0050,Meena Mukherjee,Small Business,Kolkata,West Bengal,East
+C-0051,Ishita Verma,Home Office,Gurgaon,Haryana,North
+C-0052,Ananya Mishra,Small Business,Bilaspur,Chhattisgarh,West
+C-0053,Ajay Sharma,Corporate,Rohini,Delhi,North
+C-0054,Sunita Verma,Corporate,Dibrugarh,Assam,East
+C-0055,Manoj Kumar,Consumer,Faridabad,Haryana,North
+C-0056,Sneha Shah,Small Business,Mysore,Karnataka,South
+C-0057,Geeta Mishra,Corporate,Chennai,Tamil Nadu,South
+C-0058,Vikram Sharma,Corporate,Trivandrum,Kerala,South
+C-0059,Ishita Patel,Small Business,Lucknow,Uttar Pradesh,North
+C-0060,Ira Shah,Corporate,Margao,Goa,West
+C-0061,Ira Sharma,Home Office,Visakhapatnam,Andhra Pradesh,South
+C-0062,Arjun Pandey,Small Business,Rourkela,Odisha,East
+C-0063,Nitin Tiwari,Home Office,Kolkata,West Bengal,East
+C-0064,Diya Patil,Small Business,Kolkata,West Bengal,East
+C-0065,Sneha Mishra,Consumer,Dhanbad,Jharkhand,East
+C-0066,Neha Kapoor,Small Business,Kochi,Kerala,South
+C-0067,Aarav Banerjee,Consumer,Trivandrum,Kerala,South
+C-0068,Rahul Malhotra,Consumer,Silchar,Assam,East
+C-0069,Ankita Kapoor,Small Business,Silchar,Assam,East
+C-0070,Rohit Das,Corporate,Guwahati,Assam,East
+C-0071,Vikram Jain,Home Office,Vadodara,Gujarat,West
+C-0072,Raj Deshmukh,Corporate,Faridabad,Haryana,North
+C-0073,Manoj Dubey,Small Business,Jamshedpur,Jharkhand,East
+C-0074,Nitin Shah,Consumer,Vadodara,Gujarat,West
+C-0075,Priya Banerjee,Home Office,Kolkata,West Bengal,East
+C-0076,Ira Dubey,Consumer,Chennai,Tamil Nadu,South
+C-0077,Aanya Mukherjee,Corporate,Noida,Uttar Pradesh,North
+C-0078,Swati Agarwal,Corporate,Indore,Madhya Pradesh,West
+C-0079,Kabir Mehta,Corporate,Dwarka,Delhi,North
+C-0080,Diya Dubey,Corporate,Nagpur,Maharashtra,West
+C-0081,Arnav Chatterjee,Home Office,Vijayawada,Andhra Pradesh,South
+C-0082,Rajesh Kapoor,Small Business,Bilaspur,Chhattisgarh,West
+C-0083,Ajay Chatterjee,Home Office,Visakhapatnam,Andhra Pradesh,South
+C-0084,Rajesh Joshi,Corporate,Silchar,Assam,East
+C-0085,Ishita Chatterjee,Home Office,Gurgaon,Haryana,North
+C-0086,Amit Iyer,Corporate,Chandigarh,Punjab,North
+C-0087,Neha Agarwal,Small Business,Chennai,Tamil Nadu,South
+C-0088,Vikram Iyer,Corporate,Bhopal,Madhya Pradesh,West
+C-0089,Vikram Das,Small Business,Udaipur,Rajasthan,North
+C-0090,Aarav Pillai,Corporate,Jamshedpur,Jharkhand,East
+C-0091,Ramesh Joshi,Consumer,Jamshedpur,Jharkhand,East
+C-0092,Neha Iyer,Corporate,Surat,Gujarat,West
+C-0093,Geeta Deshmukh,Consumer,Agra,Uttar Pradesh,North
+C-0094,Reyansh Mehta,Corporate,Surat,Gujarat,West
+C-0095,Vihaan Reddy,Small Business,Panaji,Goa,West
+C-0096,Rohit Iyer,Home Office,Margao,Goa,West
+C-0097,Reyansh Mukherjee,Home Office,Jaipur,Rajasthan,North
+C-0098,Ira Mehta,Corporate,New Delhi,Delhi,North
+C-0099,Myra Tiwari,Corporate,Jaipur,Rajasthan,North
+C-0100,Dhruv Mukherjee,Small Business,Jaipur,Rajasthan,North
+C-0101,Preeti Reddy,Consumer,Muzaffarpur,Bihar,East
+C-0102,Nisha Tiwari,Consumer,Kochi,Kerala,South
+C-0103,Riya Patil,Corporate,Jabalpur,Madhya Pradesh,West
+C-0104,Arjun Patil,Home Office,Hubli,Karnataka,South
+C-0105,Nitin Kulkarni,Home Office,Jaipur,Rajasthan,North
+C-0106,Sunita Bose,Home Office,Durgapur,West Bengal,East
+C-0107,Aarav Saxena,Small Business,Bhopal,Madhya Pradesh,West
+C-0108,Pooja Mehta,Corporate,Surat,Gujarat,West
+C-0109,Ankita Banerjee,Small Business,Dibrugarh,Assam,East
+C-0110,Deepa Bose,Consumer,Bhubaneswar,Odisha,East
+C-0111,Ishita Kapoor,Small Business,Surat,Gujarat,West
+C-0112,Amit Sharma,Small Business,Panaji,Goa,West
+C-0113,Sara Pillai,Home Office,Cuttack,Odisha,East
+C-0114,Kavita Shah,Small Business,Ludhiana,Punjab,North
+C-0115,Ramesh Deshmukh,Small Business,Vijayawada,Andhra Pradesh,South
+C-0116,Kiran Dubey,Corporate,Dwarka,Delhi,North
+C-0117,Raj Agarwal,Home Office,Calicut,Kerala,South
+C-0118,Suresh Deshmukh,Home Office,Dhanbad,Jharkhand,East
+C-0119,Sneha Agarwal,Home Office,Margao,Goa,West
+C-0120,Ira Singh,Corporate,Kochi,Kerala,South
+C-0121,Myra Shah,Home Office,Vasco,Goa,West
+C-0122,Sai Tiwari,Home Office,Kochi,Kerala,South
+C-0123,Diya Nair,Home Office,Jaipur,Rajasthan,North
+C-0124,Aditya Verma,Small Business,Muzaffarpur,Bihar,East
+C-0125,Sai Saxena,Small Business,Udaipur,Rajasthan,North
+C-0126,Suresh Chatterjee,Home Office,Patna,Bihar,East
+C-0127,Suresh Singh,Consumer,Noida,Uttar Pradesh,North
+C-0128,Vijay Mehta,Home Office,Chandigarh,Punjab,North
+C-0129,Reyansh Joshi,Corporate,Udaipur,Rajasthan,North
+C-0130,Nisha Banerjee,Home Office,Indore,Madhya Pradesh,West
+C-0131,Sanjay Bose,Consumer,Dibrugarh,Assam,East
+C-0132,Sai Pandey,Consumer,Coimbatore,Tamil Nadu,South
+C-0133,Ananya Joshi,Corporate,Hyderabad,Telangana,South
+C-0134,Aarav Bose,Home Office,Bhilai,Chhattisgarh,West
+C-0135,Aditya Joshi,Small Business,Rourkela,Odisha,East
+C-0136,Arjun Jain,Corporate,Calicut,Kerala,South
+C-0137,Manoj Singh,Corporate,Coimbatore,Tamil Nadu,South
+C-0138,Arjun Verma,Home Office,Calicut,Kerala,South
+C-0139,Kiran Singh,Small Business,Vasco,Goa,West
+C-0140,Ishita Banerjee,Consumer,Bhopal,Madhya Pradesh,West
+C-0141,Manoj Mishra,Consumer,Silchar,Assam,East
+C-0142,Vijay Patil,Consumer,Panipat,Haryana,North
+C-0143,Rajesh Pandey,Small Business,Vijayawada,Andhra Pradesh,South
+C-0144,Mohan Tiwari,Home Office,Pune,Maharashtra,West
+C-0145,Rohit Jain,Small Business,Amritsar,Punjab,North
+C-0146,Preeti Mukherjee,Consumer,Dhanbad,Jharkhand,East
+C-0147,Deepa Gupta,Consumer,Cuttack,Odisha,East
+C-0148,Nisha Das,Small Business,Udaipur,Rajasthan,North
+C-0149,Vihaan Shah,Small Business,Silchar,Assam,East
+C-0150,Sara Reddy,Small Business,Trivandrum,Kerala,South
+C-0151,Arnav Sharma,Consumer,Coimbatore,Tamil Nadu,South
+C-0152,Ajay Bose,Small Business,Chandigarh,Punjab,North
+C-0153,Arnav Mehta,Home Office,Vijayawada,Andhra Pradesh,South
+C-0154,Meena Agarwal,Small Business,Jamshedpur,Jharkhand,East
+C-0155,Aanya Chatterjee,Corporate,Hyderabad,Andhra Pradesh,South
+C-0156,Arjun Reddy,Home Office,Vasco,Goa,West
+C-0157,Aarav Nair,Small Business,Dibrugarh,Assam,East
+C-0158,Kabir Chatterjee,Small Business,Margao,Goa,West
+C-0159,Deepa Malhotra,Corporate,Muzaffarpur,Bihar,East
+C-0160,Vijay Das,Home Office,Hyderabad,Andhra Pradesh,South
+C-0161,Manish Mukherjee,Corporate,Jabalpur,Madhya Pradesh,West
+C-0162,Ramesh Verma,Home Office,Nizamabad,Telangana,South
+C-0163,Kavita Malhotra,Corporate,Nagpur,Maharashtra,West
+C-0164,Vikram Saxena,Home Office,Mysore,Karnataka,South
+C-0165,Amit Kulkarni,Small Business,Pune,Maharashtra,West
+C-0166,Rohit Mehta,Consumer,Raipur,Chhattisgarh,West
+C-0167,Aanya Mehta,Consumer,Muzaffarpur,Bihar,East
+C-0168,Rajesh Mehta,Home Office,Lucknow,Uttar Pradesh,North
+C-0169,Vivaan Verma,Home Office,Howrah,West Bengal,East
+C-0170,Pooja Bose,Small Business,Madurai,Tamil Nadu,South
+C-0171,Vijay Jain,Consumer,Chennai,Tamil Nadu,South
+C-0172,Geeta Saxena,Corporate,Bilaspur,Chhattisgarh,West
+C-0173,Ramesh Malhotra,Home Office,Coimbatore,Tamil Nadu,South
+C-0174,Deepa Reddy,Corporate,Noida,Uttar Pradesh,North
+C-0175,Arjun Chatterjee,Small Business,Silchar,Assam,East
+C-0176,Riya Shah,Corporate,Bhopal,Madhya Pradesh,West
+C-0177,Neha Patil,Home Office,Silchar,Assam,East
+C-0178,Vivaan Tiwari,Consumer,Panaji,Goa,West
+C-0179,Rekha Mishra,Home Office,Panaji,Goa,West
+C-0180,Myra Kulkarni,Consumer,Muzaffarpur,Bihar,East
+C-0181,Mohan Mehta,Consumer,Faridabad,Haryana,North
+C-0182,Sanjay Pillai,Home Office,Mysore,Karnataka,South
+C-0183,Manish Bose,Home Office,Chennai,Tamil Nadu,South
+C-0184,Kavita Banerjee,Small Business,Gaya,Bihar,East
+C-0185,Priya Mishra,Consumer,Howrah,West Bengal,East
+C-0186,Kabir Pandey,Home Office,Vijayawada,Andhra Pradesh,South
+C-0187,Reyansh Dubey,Consumer,Pune,Maharashtra,West
+C-0188,Deepa Pillai,Home Office,Silchar,Assam,East
+C-0189,Ira Mukherjee,Home Office,Jodhpur,Rajasthan,North
+C-0190,Geeta Joshi,Home Office,Agra,Uttar Pradesh,North
+C-0191,Sohan Bose,Consumer,Chandigarh,Punjab,North
+C-0192,Riya Mukherjee,Corporate,New Delhi,Delhi,North
+C-0193,Neha Chatterjee,Corporate,Silchar,Assam,East
+C-0194,Vikram Mehta,Small Business,Agra,Uttar Pradesh,North
+C-0195,Preeti Pillai,Corporate,Visakhapatnam,Andhra Pradesh,South
+C-0196,Pooja Singh,Home Office,Dibrugarh,Assam,East
+C-0197,Vihaan Das,Small Business,Patna,Bihar,East
+C-0198,Reyansh Jain,Consumer,Hyderabad,Telangana,South
+C-0199,Amit Joshi,Consumer,Hyderabad,Telangana,South
+C-0200,Rajesh Deshmukh,Corporate,Hyderabad,Telangana,South
+C-0201,Amit Pandey,Home Office,Hyderabad,Telangana,South
+C-0202,Kabir Kumar,Consumer,Patna,Bihar,East
+C-0203,Dhruv Sharma,Home Office,Muzaffarpur,Bihar,East
+C-0204,Vivaan Patel,Small Business,Kolkata,West Bengal,East
+C-0205,Kavita Singh,Home Office,Noida,Uttar Pradesh,North
+C-0206,Meena Patil,Corporate,Agra,Uttar Pradesh,North
+C-0207,Geeta Verma,Consumer,Dhanbad,Jharkhand,East
+C-0208,Vihaan Mukherjee,Consumer,Jabalpur,Madhya Pradesh,West
+C-0209,Ramesh Agarwal,Home Office,Mumbai,Maharashtra,West
+C-0210,Rekha Kumar,Home Office,Amritsar,Punjab,North
+C-0211,Neha Kulkarni,Small Business,Dhanbad,Jharkhand,East
+C-0212,Sai Dubey,Corporate,Jodhpur,Rajasthan,North
+C-0213,Manoj Chatterjee,Small Business,Visakhapatnam,Andhra Pradesh,South
+C-0214,Raj Bose,Home Office,Faridabad,Haryana,North
+C-0215,Rahul Reddy,Small Business,Muzaffarpur,Bihar,East
+C-0216,Arjun Gupta,Consumer,Dwarka,Delhi,North
+C-0217,Manish Mishra,Consumer,Muzaffarpur,Bihar,East
+C-0218,Ajay Iyer,Small Business,Noida,Uttar Pradesh,North
+C-0219,Ankita Verma,Home Office,Silchar,Assam,East
+C-0220,Sai Patil,Small Business,Madurai,Tamil Nadu,South
+C-0221,Ira Saxena,Home Office,Panipat,Haryana,North
+C-0222,Arnav Pandey,Small Business,Guwahati,Assam,East
+C-0223,Ajay Pandey,Home Office,Jodhpur,Rajasthan,North
+C-0224,Ishita Agarwal,Consumer,Cuttack,Odisha,East
+C-0225,Diya Saxena,Small Business,Nizamabad,Telangana,South
+C-0226,Arjun Kumar,Corporate,Rohini,Delhi,North
+C-0227,Neha Bose,Home Office,Panaji,Goa,West
+C-0228,Riya Mishra,Consumer,Dibrugarh,Assam,East
+C-0229,Vihaan Kumar,Consumer,Hyderabad,Telangana,South
+C-0230,Rahul Bose,Small Business,Bhilai,Chhattisgarh,West
+C-0231,Ishita Shah,Consumer,Faridabad,Haryana,North
+C-0232,Priya Jain,Home Office,Bilaspur,Chhattisgarh,West
+C-0233,Raj Kulkarni,Home Office,New Delhi,Delhi,North
+C-0234,Sara Pandey,Home Office,Trivandrum,Kerala,South
+C-0235,Ramesh Mishra,Small Business,Ahmedabad,Gujarat,West
+C-0236,Ira Banerjee,Consumer,Howrah,West Bengal,East
+C-0237,Manoj Sharma,Small Business,Pune,Maharashtra,West
+C-0238,Swati Mehta,Small Business,Panaji,Goa,West
+C-0239,Vivaan Iyer,Home Office,Warangal,Telangana,South
+C-0240,Reyansh Bose,Small Business,Amritsar,Punjab,North
+C-0241,Kavita Gupta,Home Office,Vasco,Goa,West
+C-0242,Ira Iyer,Consumer,Hubli,Karnataka,South
+C-0243,Myra Kapoor,Corporate,Rourkela,Odisha,East
+C-0244,Aanya Singh,Corporate,Kochi,Kerala,South
+C-0245,Sohan Gupta,Small Business,Visakhapatnam,Andhra Pradesh,South
+C-0246,Nitin Malhotra,Small Business,Bhubaneswar,Odisha,East
+C-0247,Arjun Mukherjee,Consumer,Margao,Goa,West
+C-0248,Sneha Banerjee,Small Business,Faridabad,Haryana,North
+C-0249,Pooja Tiwari,Consumer,Durgapur,West Bengal,East
+C-0250,Geeta Kulkarni,Consumer,Jabalpur,Madhya Pradesh,West
+C-0251,Kiran Malhotra,Small Business,Calicut,Kerala,South
+C-0252,Meena Kumar,Home Office,Lucknow,Uttar Pradesh,North
+C-0253,Swati Gupta,Small Business,Bangalore,Karnataka,South
+C-0254,Kiran Banerjee,Home Office,Trivandrum,Kerala,South
+C-0255,Nisha Iyer,Home Office,Gurgaon,Haryana,North
+C-0256,Sai Deshmukh,Corporate,Margao,Goa,West
+C-0257,Sanjay Jain,Small Business,Trivandrum,Kerala,South
+C-0258,Dhruv Kulkarni,Small Business,Panipat,Haryana,North
+C-0259,Sohan Dubey,Consumer,Muzaffarpur,Bihar,East
+C-0260,Sohan Jain,Consumer,Bhilai,Chhattisgarh,West
+C-0261,Pooja Nair,Small Business,Coimbatore,Tamil Nadu,South
+C-0262,Myra Joshi,Home Office,Chennai,Tamil Nadu,South
+C-0263,Sai Banerjee,Corporate,Panipat,Haryana,North
+C-0264,Rekha Das,Corporate,Chennai,Tamil Nadu,South
+C-0265,Ankita Chatterjee,Corporate,Noida,Uttar Pradesh,North
+C-0266,Kiran Kulkarni,Corporate,Ranchi,Jharkhand,East
+C-0267,Riya Dubey,Small Business,Surat,Gujarat,West
+C-0268,Deepa Pandey,Small Business,Dhanbad,Jharkhand,East
+C-0269,Ananya Tiwari,Home Office,Hyderabad,Telangana,South
+C-0270,Suresh Saxena,Consumer,Guwahati,Assam,East
+C-0271,Priya Gupta,Corporate,Trivandrum,Kerala,South
+C-0272,Manoj Gupta,Consumer,Visakhapatnam,Andhra Pradesh,South
+C-0273,Vikram Verma,Corporate,Bhilai,Chhattisgarh,West
+C-0274,Neha Gupta,Home Office,Patna,Bihar,East
+C-0275,Amit Dubey,Home Office,Chennai,Tamil Nadu,South
+C-0276,Suresh Agarwal,Consumer,Visakhapatnam,Andhra Pradesh,South
+C-0277,Reyansh Sharma,Small Business,Patna,Bihar,East
+C-0278,Priya Joshi,Corporate,Kolkata,West Bengal,East
+C-0279,Geeta Chatterjee,Consumer,Dwarka,Delhi,North
+C-0280,Mohan Banerjee,Small Business,Coimbatore,Tamil Nadu,South
+C-0281,Aarav Kulkarni,Small Business,Muzaffarpur,Bihar,East
+C-0282,Diya Jain,Consumer,Udaipur,Rajasthan,North
+C-0283,Kavita Deshmukh,Consumer,Noida,Uttar Pradesh,North
+C-0284,Mohan Das,Consumer,Rourkela,Odisha,East
+C-0285,Sneha Dubey,Consumer,Gurgaon,Haryana,North
+C-0286,Nisha Patil,Home Office,Patna,Bihar,East
+C-0287,Sunita Iyer,Small Business,Vijayawada,Andhra Pradesh,South
+C-0288,Mohan Patel,Small Business,Hubli,Karnataka,South
+C-0289,Aditya Nair,Consumer,Bangalore,Karnataka,South
+C-0290,Rohit Malhotra,Small Business,Silchar,Assam,East
+C-0291,Navya Verma,Consumer,Trivandrum,Kerala,South
+C-0292,Sohan Iyer,Small Business,Howrah,West Bengal,East
+C-0293,Raj Mishra,Corporate,Indore,Madhya Pradesh,West
+C-0294,Ramesh Pillai,Small Business,Durgapur,West Bengal,East
+C-0295,Rekha Tiwari,Home Office,Warangal,Telangana,South
+C-0296,Sai Gupta,Small Business,Cuttack,Odisha,East
+C-0297,Rekha Agarwal,Small Business,Vadodara,Gujarat,West
+C-0298,Sneha Chatterjee,Small Business,Panipat,Haryana,North
+C-0299,Ishita Mehta,Small Business,Rohini,Delhi,North
+C-0300,Pooja Banerjee,Small Business,Bangalore,Karnataka,South
+C-0301,Aditya Kumar,Home Office,Ludhiana,Punjab,North
+C-0302,Pooja Das,Small Business,Jaipur,Rajasthan,North
+C-0303,Pooja Pillai,Corporate,Nagpur,Maharashtra,West
+C-0304,Kavita Pillai,Home Office,Vasco,Goa,West
+C-0305,Vivaan Mishra,Small Business,Vijayawada,Andhra Pradesh,South
+C-0306,Ajay Singh,Small Business,Rourkela,Odisha,East
+C-0307,Sara Kulkarni,Consumer,Ranchi,Jharkhand,East
+C-0308,Dhruv Saxena,Small Business,Lucknow,Uttar Pradesh,North
+C-0309,Nitin Saxena,Consumer,Rourkela,Odisha,East
+C-0310,Ajay Deshmukh,Corporate,Bhubaneswar,Odisha,East
+C-0311,Myra Dubey,Consumer,Coimbatore,Tamil Nadu,South
+C-0312,Pooja Deshmukh,Corporate,Dhanbad,Jharkhand,East
+C-0313,Geeta Kapoor,Small Business,Dwarka,Delhi,North
+C-0314,Swati Mishra,Small Business,Bhilai,Chhattisgarh,West
+C-0315,Vijay Gupta,Consumer,Calicut,Kerala,South
+C-0316,Kiran Chatterjee,Corporate,Muzaffarpur,Bihar,East
+C-0317,Nisha Kumar,Consumer,Raipur,Chhattisgarh,West
+C-0318,Kavita Kumar,Home Office,Patna,Bihar,East
+C-0319,Swati Joshi,Consumer,Silchar,Assam,East
+C-0320,Navya Shah,Home Office,Muzaffarpur,Bihar,East
+C-0321,Reyansh Banerjee,Corporate,Nizamabad,Telangana,South
+C-0322,Ananya Jain,Consumer,Guwahati,Assam,East
+C-0323,Reyansh Verma,Small Business,Muzaffarpur,Bihar,East
+C-0324,Geeta Mehta,Home Office,Agra,Uttar Pradesh,North
+C-0325,Sohan Nair,Small Business,Vadodara,Gujarat,West
+C-0326,Riya Chatterjee,Small Business,New Delhi,Delhi,North
+C-0327,Deepa Shah,Home Office,Guwahati,Assam,East
+C-0328,Swati Iyer,Home Office,Ranchi,Jharkhand,East
+C-0329,Meena Deshmukh,Small Business,Gurgaon,Haryana,North
+C-0330,Arnav Reddy,Consumer,Ahmedabad,Gujarat,West
+C-0331,Vihaan Nair,Corporate,Bhilai,Chhattisgarh,West
+C-0332,Vijay Mishra,Small Business,Patna,Bihar,East
+C-0333,Meena Chatterjee,Consumer,Margao,Goa,West
+C-0334,Reyansh Das,Home Office,Ahmedabad,Gujarat,West
+C-0335,Vihaan Verma,Small Business,Dhanbad,Jharkhand,East
+C-0336,Priya Deshmukh,Corporate,Dwarka,Delhi,North
+C-0337,Navya Mishra,Consumer,Jamshedpur,Jharkhand,East
+C-0338,Raj Verma,Home Office,Calicut,Kerala,South
+C-0339,Arjun Das,Consumer,Bhilai,Chhattisgarh,West
+C-0340,Dhruv Singh,Home Office,Margao,Goa,West
+C-0341,Rajesh Kumar,Small Business,Nizamabad,Telangana,South
+C-0342,Meena Verma,Home Office,New Delhi,Delhi,North
+C-0343,Suresh Banerjee,Corporate,Vadodara,Gujarat,West
+C-0344,Geeta Iyer,Home Office,Vijayawada,Andhra Pradesh,South
+C-0345,Sanjay Iyer,Small Business,Bhilai,Chhattisgarh,West
+C-0346,Vivaan Pillai,Home Office,Howrah,West Bengal,East
+C-0347,Ankita Saxena,Home Office,Udaipur,Rajasthan,North
+C-0348,Ananya Banerjee,Corporate,Vadodara,Gujarat,West
+C-0349,Aditya Patil,Small Business,Chandigarh,Punjab,North
+C-0350,Rohit Bose,Corporate,Vijayawada,Andhra Pradesh,South
+C-0351,Vikram Banerjee,Corporate,Nagpur,Maharashtra,West
+C-0352,Rahul Mukherjee,Small Business,Panaji,Goa,West
+C-0353,Sunita Pillai,Corporate,Silchar,Assam,East
+C-0354,Ajay Nair,Corporate,Trivandrum,Kerala,South
+C-0355,Preeti Agarwal,Home Office,Margao,Goa,West
+C-0356,Ajay Malhotra,Small Business,Bhubaneswar,Odisha,East
+C-0357,Raj Tiwari,Consumer,Gaya,Bihar,East
+C-0358,Priya Agarwal,Home Office,Faridabad,Haryana,North
+C-0359,Sara Shah,Home Office,Dibrugarh,Assam,East
+C-0360,Sanjay Joshi,Corporate,Hubli,Karnataka,South
+C-0361,Mohan Joshi,Home Office,Dwarka,Delhi,North
+C-0362,Swati Mukherjee,Corporate,Chandigarh,Punjab,North
+C-0363,Suresh Mukherjee,Home Office,Trivandrum,Kerala,South
+C-0364,Sohan Verma,Consumer,Jaipur,Rajasthan,North
+C-0365,Diya Bose,Small Business,Mysore,Karnataka,South
+C-0366,Diya Malhotra,Home Office,Kolkata,West Bengal,East
+C-0367,Vijay Kulkarni,Small Business,Faridabad,Haryana,North
+C-0368,Sohan Deshmukh,Small Business,Vadodara,Gujarat,West
+C-0369,Arnav Iyer,Home Office,Vijayawada,Andhra Pradesh,South
+C-0370,Swati Patel,Corporate,Faridabad,Haryana,North
+C-0371,Diya Kulkarni,Home Office,Jabalpur,Madhya Pradesh,West
+C-0372,Rahul Singh,Home Office,Coimbatore,Tamil Nadu,South
+C-0373,Aanya Sharma,Small Business,Ranchi,Jharkhand,East
+C-0374,Rajesh Reddy,Consumer,Rourkela,Odisha,East
+C-0375,Navya Mehta,Consumer,Patna,Bihar,East
+C-0376,Deepa Nair,Home Office,Vijayawada,Andhra Pradesh,South
+C-0377,Preeti Singh,Corporate,Rourkela,Odisha,East
+C-0378,Ira Kumar,Home Office,Surat,Gujarat,West
+C-0379,Vikram Agarwal,Corporate,Bilaspur,Chhattisgarh,West
+C-0380,Nitin Pandey,Home Office,Udaipur,Rajasthan,North
+C-0381,Arjun Malhotra,Corporate,Rohini,Delhi,North
+C-0382,Vijay Deshmukh,Small Business,Coimbatore,Tamil Nadu,South
+C-0383,Arnav Jain,Consumer,Warangal,Telangana,South
+C-0384,Vihaan Chatterjee,Small Business,Warangal,Telangana,South
+C-0385,Vijay Verma,Consumer,Vasco,Goa,West
+C-0386,Raj Reddy,Consumer,Ludhiana,Punjab,North
+C-0387,Aditya Bose,Consumer,Durgapur,West Bengal,East
+C-0388,Suresh Verma,Corporate,Ranchi,Jharkhand,East
+C-0389,Ankita Mehta,Small Business,Margao,Goa,West
+C-0390,Neha Das,Home Office,Jaipur,Rajasthan,North
+C-0391,Arnav Patel,Corporate,Raipur,Chhattisgarh,West
+C-0392,Aarav Pandey,Small Business,Faridabad,Haryana,North
+C-0393,Sunita Das,Home Office,Coimbatore,Tamil Nadu,South
+C-0394,Kabir Reddy,Small Business,Bangalore,Karnataka,South
+C-0395,Geeta Pandey,Consumer,Chandigarh,Punjab,North
+C-0396,Sai Kulkarni,Consumer,Agra,Uttar Pradesh,North
+C-0397,Aditya Das,Corporate,Vadodara,Gujarat,West
+C-0398,Rajesh Saxena,Home Office,Ludhiana,Punjab,North
+C-0399,Ira Tiwari,Home Office,Dibrugarh,Assam,East
+C-0400,Aanya Nair,Small Business,Hyderabad,Telangana,South
+C-0401,Riya Reddy,Corporate,Jodhpur,Rajasthan,North
+C-0402,Mohan Jain,Consumer,Bhilai,Chhattisgarh,West
+C-0403,Sneha Mehta,Small Business,Bhilai,Chhattisgarh,West
+C-0404,Vikram Kumar,Small Business,Ranchi,Jharkhand,East
+C-0405,Aanya Saxena,Corporate,Calicut,Kerala,South
+C-0406,Vihaan Deshmukh,Corporate,Jabalpur,Madhya Pradesh,West
+C-0407,Neha Joshi,Consumer,Gaya,Bihar,East
+C-0408,Kiran Saxena,Corporate,Durgapur,West Bengal,East
+C-0409,Neha Jain,Corporate,New Delhi,Delhi,North
+C-0410,Suresh Shah,Corporate,Bhubaneswar,Odisha,East
+C-0411,Myra Mishra,Corporate,Lucknow,Uttar Pradesh,North
+C-0412,Raj Malhotra,Home Office,Warangal,Telangana,South
+C-0413,Sunita Mehta,Home Office,Cuttack,Odisha,East
+C-0414,Meena Kapoor,Small Business,Bhopal,Madhya Pradesh,West
+C-0415,Rajesh Tiwari,Home Office,Gaya,Bihar,East
+C-0416,Vijay Saxena,Home Office,Chennai,Tamil Nadu,South
+C-0417,Sanjay Patil,Corporate,Panaji,Goa,West
+C-0418,Ajay Mehta,Small Business,Cuttack,Odisha,East
+C-0419,Deepa Patel,Small Business,Patna,Bihar,East
+C-0420,Vihaan Banerjee,Consumer,Rohini,Delhi,North
+C-0421,Rajesh Sharma,Corporate,Vadodara,Gujarat,West
+C-0422,Kabir Sharma,Home Office,Warangal,Telangana,South
+C-0423,Vihaan Kulkarni,Consumer,Bhopal,Madhya Pradesh,West
+C-0424,Sunita Deshmukh,Home Office,Mumbai,Maharashtra,West
+C-0425,Sunita Nair,Small Business,Jodhpur,Rajasthan,North
+C-0426,Diya Singh,Corporate,Jaipur,Rajasthan,North
+C-0427,Sneha Reddy,Small Business,Pune,Maharashtra,West
+C-0428,Deepa Patil,Consumer,Coimbatore,Tamil Nadu,South
+C-0429,Sohan Saxena,Small Business,Dwarka,Delhi,North
+C-0430,Neha Deshmukh,Consumer,Nagpur,Maharashtra,West
+C-0431,Preeti Patel,Home Office,Noida,Uttar Pradesh,North
+C-0432,Sai Kapoor,Small Business,Chandigarh,Punjab,North
+C-0433,Sunita Patil,Consumer,Amritsar,Punjab,North
+C-0434,Sara Patil,Home Office,Hyderabad,Andhra Pradesh,South
+C-0435,Ananya Patil,Home Office,Warangal,Telangana,South
+C-0436,Neha Pandey,Home Office,Hubli,Karnataka,South
+C-0437,Vihaan Singh,Home Office,Ahmedabad,Gujarat,West
+C-0438,Rekha Pandey,Home Office,Panaji,Goa,West
+C-0439,Kiran Mukherjee,Small Business,Calicut,Kerala,South
+C-0440,Manoj Patel,Home Office,Nagpur,Maharashtra,West
+C-0441,Aanya Agarwal,Corporate,Dwarka,Delhi,North
+C-0442,Mohan Kumar,Consumer,Margao,Goa,West
+C-0443,Pooja Pandey,Consumer,Kolkata,West Bengal,East
+C-0444,Kiran Deshmukh,Consumer,Mumbai,Maharashtra,West
+C-0445,Sneha Deshmukh,Home Office,Jodhpur,Rajasthan,North
+C-0446,Neha Sharma,Consumer,Jamshedpur,Jharkhand,East
+C-0447,Ajay Kapoor,Corporate,Nizamabad,Telangana,South
+C-0448,Nitin Das,Home Office,Coimbatore,Tamil Nadu,South
+C-0449,Ishita Mukherjee,Small Business,Bangalore,Karnataka,South
+C-0450,Ishita Bose,Home Office,Ranchi,Jharkhand,East
+C-0451,Navya Joshi,Corporate,Bilaspur,Chhattisgarh,West
+C-0452,Deepa Singh,Small Business,Kochi,Kerala,South
+C-0453,Amit Tiwari,Home Office,Margao,Goa,West
+C-0454,Manoj Tiwari,Corporate,Trivandrum,Kerala,South
+C-0455,Suresh Iyer,Home Office,Visakhapatnam,Andhra Pradesh,South
+C-0456,Manish Agarwal,Home Office,Raipur,Chhattisgarh,West
+C-0457,Neha Reddy,Corporate,Panaji,Goa,West
+C-0458,Nisha Deshmukh,Corporate,Agra,Uttar Pradesh,North
+C-0459,Priya Tiwari,Small Business,Agra,Uttar Pradesh,North
+C-0460,Dhruv Mehta,Corporate,Gaya,Bihar,East
+C-0461,Swati Bose,Small Business,Pune,Maharashtra,West
+C-0462,Sanjay Das,Home Office,Raipur,Chhattisgarh,West
+C-0463,Preeti Kapoor,Home Office,New Delhi,Delhi,North
+C-0464,Ananya Mehta,Small Business,Jodhpur,Rajasthan,North
+C-0465,Rajesh Iyer,Consumer,Mumbai,Maharashtra,West
+C-0466,Meena Mishra,Small Business,Visakhapatnam,Andhra Pradesh,South
+C-0467,Nitin Patil,Small Business,Kochi,Kerala,South
+C-0468,Sai Nair,Corporate,Mumbai,Maharashtra,West
+C-0469,Sneha Nair,Small Business,Ranchi,Jharkhand,East
+C-0470,Sneha Mukherjee,Small Business,Agra,Uttar Pradesh,North
+C-0471,Rohit Gupta,Consumer,Durgapur,West Bengal,East
+C-0472,Vivaan Saxena,Corporate,Durgapur,West Bengal,East
+C-0473,Manish Joshi,Home Office,Hyderabad,Telangana,South
+C-0474,Raj Mehta,Small Business,Madurai,Tamil Nadu,South
+C-0475,Raj Sharma,Small Business,Vijayawada,Andhra Pradesh,South
+C-0476,Swati Shah,Consumer,Calicut,Kerala,South
+C-0477,Vijay Singh,Corporate,Trivandrum,Kerala,South
+C-0478,Navya Jain,Home Office,Bilaspur,Chhattisgarh,West
+C-0479,Geeta Das,Small Business,Faridabad,Haryana,North
+C-0480,Geeta Patel,Consumer,Dibrugarh,Assam,East
+C-0481,Nitin Kumar,Home Office,Kolkata,West Bengal,East
+C-0482,Pooja Agarwal,Small Business,Warangal,Telangana,South
+C-0483,Ramesh Mehta,Small Business,Hyderabad,Telangana,South
+C-0484,Priya Kumar,Consumer,Trivandrum,Kerala,South
+C-0485,Sneha Sharma,Small Business,Ahmedabad,Gujarat,West
+C-0486,Ajay Banerjee,Small Business,Jabalpur,Madhya Pradesh,West
+C-0487,Ananya Gupta,Consumer,Amritsar,Punjab,North
+C-0488,Ishita Joshi,Small Business,Gaya,Bihar,East
+C-0489,Arnav Patil,Home Office,Panipat,Haryana,North
+C-0490,Sunita Tiwari,Corporate,Agra,Uttar Pradesh,North
+C-0491,Manish Tiwari,Small Business,Kochi,Kerala,South
+C-0492,Navya Pillai,Corporate,Lucknow,Uttar Pradesh,North
+C-0493,Sara Dubey,Small Business,Dibrugarh,Assam,East
+C-0494,Ananya Kulkarni,Consumer,Chennai,Tamil Nadu,South
+C-0495,Vijay Pillai,Corporate,Dibrugarh,Assam,East
+C-0496,Rohit Agarwal,Home Office,Rourkela,Odisha,East
+C-0497,Sai Kumar,Corporate,Pune,Maharashtra,West
+C-0498,Preeti Saxena,Home Office,Chennai,Tamil Nadu,South
+C-0499,Aanya Pandey,Home Office,Bhopal,Madhya Pradesh,West
+C-0500,Mohan Bose,Consumer,Bhopal,Madhya Pradesh,West

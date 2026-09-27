@@ -1,0 +1,52 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Standard_Cost
+P-1001,Galaxy Pro X1,Electronics,Smartphones,TechVista,21452.9
+P-1002,iPhone Lite Z,Electronics,Smartphones,FruitTech,25187.58
+P-1003,Pixel Nova 7,Electronics,Smartphones,QuantumMobile,16237.63
+P-1004,OnePlus Ace R,Electronics,Smartphones,SwiftComm,12803.56
+P-1005,UltraBook Pro 15,Electronics,Laptops,ByteForce,42732.95
+P-1006,ThinkPad Edge X,Electronics,Laptops,NovaSys,33684.28
+P-1007,MacAir Clone Z,Electronics,Laptops,FruitTech,50706.15
+P-1008,ChromeBook Flex,Electronics,Laptops,QuantumMobile,15391.22
+P-1009,Tab Ultra S9,Electronics,Tablets,TechVista,13518.92
+P-1010,iPad Mini Clone,Electronics,Tablets,FruitTech,18160.9
+P-1011,SlimPad Pro,Electronics,Tablets,ByteForce,8524.73
+P-1012,Wireless Mouse MX,Electronics,Accessories,PeripheralCo,575.8
+P-1013,Mech Keyboard K70,Electronics,Accessories,PeripheralCo,2015.92
+P-1014,USB-C Hub 7in1,Electronics,Accessories,SwiftComm,847.72
+P-1015,Webcam HD Pro,Electronics,Accessories,NovaSys,1792.45
+P-1016,Bluetooth Speaker Z,Electronics,Accessories,SoundWave,1396.18
+P-1017,Classic Oxford Shirt,Clothing,Men's Wear,UrbanThreads,426.45
+P-1018,Slim Fit Chinos,Clothing,Men's Wear,DenimCraft,706.07
+P-1019,Wool Blend Blazer,Clothing,Men's Wear,EliteWear,1864.24
+P-1020,Cotton Polo Tee,Clothing,Men's Wear,UrbanThreads,300.58
+P-1021,Floral Maxi Dress,Clothing,Women's Wear,StyleHaven,620.87
+P-1022,Denim Jacket Classic,Clothing,Women's Wear,DenimCraft,967.55
+P-1023,Silk Blouse Premium,Clothing,Women's Wear,EliteWear,771.45
+P-1024,Yoga Pants Flex,Clothing,Women's Wear,ActiveZone,418.66
+P-1025,Running Shoe AirMax,Clothing,Footwear,StridePro,1930.75
+P-1026,Leather Loafer Elite,Clothing,Footwear,EliteWear,1321.17
+P-1027,Canvas Sneaker V2,Clothing,Footwear,UrbanThreads,616.69
+P-1028,Air Fryer ProChef,Home & Kitchen,Appliances,HomeEssentials,2058.03
+P-1029,Blender TurboMix,Home & Kitchen,Appliances,KitchenPro,1003.4
+P-1030,Coffee Maker Brew+,Home & Kitchen,Appliances,HomeEssentials,1771.68
+P-1031,Toaster Oven Deluxe,Home & Kitchen,Appliances,KitchenPro,1490.57
+P-1032,Ergonomic Office Chair,Home & Kitchen,Furniture,ComfortLiving,4875.68
+P-1033,Standing Desk Pro,Home & Kitchen,Furniture,ComfortLiving,9286.95
+P-1034,Bookshelf Walnut 5T,Home & Kitchen,Furniture,WoodCraft,3229.84
+P-1035,LED Desk Lamp Smart,Home & Kitchen,Decor,BrightHome,668.14
+P-1036,Wall Art Canvas Set,Home & Kitchen,Decor,ArtisanDecor,932.49
+P-1037,Scented Candle Trio,Home & Kitchen,Decor,ArtisanDecor,249.76
+P-1038,Yoga Mat Premium,Sports & Outdoors,Fitness,ActiveZone,355.67
+P-1039,Dumbbell Set 20kg,Sports & Outdoors,Fitness,IronFit,1887.77
+P-1040,Resistance Band Kit,Sports & Outdoors,Fitness,ActiveZone,234.64
+P-1041,Fitness Tracker V3,Sports & Outdoors,Fitness,TechVista,2180.47
+P-1042,Camping Tent 4P,Sports & Outdoors,Outdoor Gear,WildTrail,3041.24
+P-1043,Hiking Backpack 50L,Sports & Outdoors,Outdoor Gear,WildTrail,1602.55
+P-1044,Trekking Poles Carbon,Sports & Outdoors,Outdoor Gear,WildTrail,869.45
+P-1045,Python Programming 101,Books & Stationery,Books,EduPress,153.59
+P-1046,Data Science Handbook,Books & Stationery,Books,EduPress,213.97
+P-1047,Business Strategy Guide,Books & Stationery,Books,LeaderBooks,185.45
+P-1048,Fiction Bestseller Pack,Books & Stationery,Books,NovelHouse,270.85
+P-1049,Premium Notebook A5,Books & Stationery,Stationery,WriteWell,95.26
+P-1050,Pen Set Executive,Books & Stationery,Stationery,WriteWell,221.89
+P-1051,Desk Organizer Pro,Books & Stationery,Stationery,OfficeMate,333.32
